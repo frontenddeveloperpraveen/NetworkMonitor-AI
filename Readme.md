@@ -43,6 +43,12 @@ Creating a Windows app using Tkinter that monitors and displays which applicatio
 - [Intrusion Detection Dataset](https://www.unb.ca/cic/datasets/ids-2017.html) (labelled)
 - [Network Intrusion Detection Dataset](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection) (labelled as normal or under attack)
 
+- 
+
 ### Additional Useful Links
 
 - [Network Intrusion Detection with PyTorch and PCA](https://www.kaggle.com/code/elirizk/network-intrusion-detection-with-pytorch-and-pca)
+
+Working Kaggle link for cicids 2017: https://www.kaggle.com/datasets/cicdataset/cicids2017/data
+possible code for ideas : https://www.kaggle.com/code/omrastogi/cicidsclassifiers
+And : https://www.kaggle.com/code/kooaslansefat/cicids2017-safeml
